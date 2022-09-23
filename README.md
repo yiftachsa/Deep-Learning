@@ -26,7 +26,7 @@ Deep learning algorithms have recorded significant achievements in diverse areas
 
 [Assignment 3](Assignments/Ex3.ipynb) - **RNN** - lyrics generation using RNNs - The purpose of this task was to build a recurrent neural net and use it on a real-world dataset. We trained a neural network to generate lyrics based on a provided melody. In addition to practical knowledge in the “how to” of building the network, an additional goal was to face the challenge of integrating different sources of information into a single framework.
 
-[Assignment 3](Assignments/Ex3.ipynb) - **GAN** - Tabular samples generation - This work has two sections, the first one is an implementation of a simple GAN model for tabular data, and the second part is an implementaion of a GAN architecture that should infer the inner-working of a black-box model. 
+[Assignment 4](Assignments/Ex3.ipynb) - **GAN** - Tabular samples generation - This work has two sections, the first one is an implementation of a simple GAN model for tabular data, and the second part is an implementaion of a modified GAN architecture that should infer the inner-working of a black-box model. 
 
 
 

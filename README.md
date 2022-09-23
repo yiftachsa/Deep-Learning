@@ -1,7 +1,7 @@
 # Deep-Learning
 
 <p align="center">
-<img src="https://www.zdnet.com/a/img/resize/28d3f004b94bd200eea41399d2be2fff7505906a/2018/04/13/36c52953-7ab9-4608-a848-71d1d538856e/td-deep-learning.jpg?auto=webp&fit=crop&height=675&width=1200"  width="550" height="250">
+<img src="https://miro.medium.com/max/1018/1*I5O6NX_DIKYI1VBuLfX77Q.jpeg"  width="500" height="300">
 </p>
 
 This repository includes all four tasks notebooks created as part of the Deep Learning course at the Ben-Gurion University of the Negev.

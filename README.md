@@ -11,9 +11,9 @@ Each project covers a different field: **ANN**, **CNN**, **RNN**, and **GAN**.
 Deep learning algorithms have recorded significant achievements in diverse areas such as image recognition, Text analysis, and robotics. The course provides an overview of the areas and trends in the field of deep learning today. The course opens An overview of the theoretical basis on which the field stands and then reviews the different types of networks that exist Today and their suitability for the various tasks. The course also discussed various issues related to the use of these algorithms For "real world" problems and in-depth examples of applications in various fields. The beginnings of the course was based on Coursera's course of **Andrew Ng. - "DeepLearning Specialization" ([link](https://www.coursera.org/specializations/deep-learning))** and covered all of its syllabus.
 
 <p float="left">
-  <img src="Media/ass4_6.png" width=32% />
+  <img src="Media/ass4_6.png" width=30% />
   <img src="Media/ass4_11.png" width=26% />
-  <img src="Media/ass3_2.png" width=41% />
+  <img src="Media/ass3_2.png" width=38% />
 </p>
 
 ## Assignments
